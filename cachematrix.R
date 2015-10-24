@@ -5,7 +5,7 @@
 ## (getInv). The user can also change the value of an existing matrix (setMat).
 
 ## The following functions creates a matrix and also contains a list of 
-## functions to retrieve the matrix (getMat), retrive the inverse matrix 
+## functions to retrieve the matrix (getMat), retrieve the inverse matrix 
 ## (getInv), set the inverse matrix (setInv), and change an exisiting 
 ## matrix (setMat).
 
